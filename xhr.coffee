@@ -1,3 +1,4 @@
+#this is a test
 class Xhr
   #class methods
   @readyState =  0
